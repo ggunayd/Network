@@ -99,7 +99,7 @@ yönünü bulamaz ve haberleşemezler.Bunun için static route işlemini yapmal�
   <br>
   ![ping](https://github.com/ggunayd/Network/assets/99563515/f6f6c27b-b26a-47f9-888c-f3b4d3184f1f)
   <br>
-  -Tüm cihazların haberleşmesi için bu işlemleri sırasıyla uyguluyoruz ve cihazlarımızın birbirleriyle iletişim halinde olmasını sağlıyoruz.
+  -Cihazların haberleşmesi için hepsine bu işlemleri sırasıyla uyguluyoruz ve tüm cihazlarımızın birbirleriyle iletişim halinde olmasını sağlıyoruz.
   
   
   
