@@ -79,6 +79,7 @@ yönünü bulamaz ve haberleşemezler.Bunun için static route işlemini yapmal�
   "ip route 10.0.100.0 255.255.255.0 10.0.105.2" (R3'den R1'e ip route yazarken R1'e bağlı 2 network ağı oluduğu için ikisi için de ip route işlemini yapıyoruz.)
   <br>
   ![pc1ping](https://github.com/ggunayd/Network/assets/99563515/fecd05a9-9afe-4025-aa3e-1e97cc648cdf)
+  <br>
   -Şu anda Pc1'den R3'e ulaşabiliyoruz. 
   <br>
   -Aynı işlemleri R1 ve R3 arasında da uyguluyoruz ve Pc6dan R3'e ulaşacak konuma geliyoruz. Daha sonra Pc1 ve Pc6 cihazlarımızın haberleşebilmesi için R1 ve R5 arasında static route 
