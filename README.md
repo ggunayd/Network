@@ -4,6 +4,7 @@
 -Bu topolojide bilgisayarların birbirleriyle iletişim halinde olmasını sağlayacağız.
 
 ![1 network](https://github.com/ggunayd/Network/assets/99563515/19471d9f-2ac6-433f-8f5f-97742f7e4628)
+</n>
 -10.0.101.0/24 networku için ip atamalarımızı yapıyoruz.
 ->Pc1:
   "ip 10.0.101.2/24 10.0.101.254"
