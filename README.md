@@ -45,9 +45,6 @@ yönünü bulamaz ve haberleşemezler.Bunun için static route işlemini yapmal�
   <br>
   -Öncelikle routelarımıza ip atamasını yapıyoruz.
   <br>
-  
-![r1_00](https://github.com/ggunayd/Network/assets/99563515/52bd5573-24c1-4b1d-965d-a23f63570a41)
-  <br>
   ![01portu](https://github.com/ggunayd/Network/assets/99563515/ca519610-6209-4bbd-be64-c4a4740295a6)
   <br>
   -Port bilgilerimize bakıyoruz. R1 için fastEthernet 0/1 portuna ip ataması yapacağız.
