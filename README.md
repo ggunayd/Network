@@ -50,7 +50,7 @@ yönünü bulamaz ve haberleşemezler.Bunun için static route işlemini yapmal�
   <br>
   -Port bilgilerimize bakıyoruz. R1 için fastEthernet 0/0 portuna ip ataması yapacağız.
   <br>
-  "interface fastEthernet 0/1"
+  "interface fastEthernet 0/0"
   <br>
   "ip address 10.0.105.2 255.255.255.0"
   <br>
