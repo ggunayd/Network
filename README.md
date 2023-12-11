@@ -13,12 +13,13 @@
   "ip address 10.0.101.254 255.255.255.0" -> (ip adresi ve subneti atıyoruz.)
   "no shutdown" -> (portu aktif hale getiriyoruz)
   "exit" -> (interfaceden çıkıyoruz.)
-  "end" ve "write memory" -> (ana konsola geçiyoruz ve yaptığımız işlemleri hafızaya kaydediyoruz.)
+  "end" ve "write memory" -> (ana konsola geçiyoruz ve yaptığımız işlemleri hafızaya kaydediyoruz.)  
 
--Aynı işlemi bütün pcler ve routerlar için yaptıktan sonra aynı network içinde cihazlar varsa birbirleriyle haberleşebilir.
+  -Aynı işlemi bütün pcler ve routerlar için yaptıktan sonra aynı network içinde cihazlar varsa birbirleriyle haberleşebilir.
 Cihazlar farklı networkler içerisindeyse; örneğin Pc1'den çıkan paket routera kadar yolunu takip edebilir ama routerdan sonra
 yönünü bulamaz ve haberleşemezler.Bunun için static route işlemini yapmalıyız.
 
 ![router](https://github.com/ggunayd/Network/assets/99563515/12d6efe2-03ea-445b-905b-22471742dea3)
--Birbirlerine bağlı routerların haberleşebilmesi için aynı networkde olması ve farklı ip adreslerine sahip olması gerekiyor.
+
+  -Birbirlerine bağlı routerların haberleşebilmesi için aynı networkde olması ve farklı ip adreslerine sahip olması gerekiyor.
 -> R1 ve R3 arasındaki static route;
