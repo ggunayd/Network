@@ -11,8 +11,6 @@
 <br>
   "ip 10.0.101.2/24 10.0.101.254"
   <br>
-  "write memory"
-  <br>
 -Routerın 10.0.101.0/24 network portuna ip ataması yapıyoruz.
 <br>
   "configure terminal"
