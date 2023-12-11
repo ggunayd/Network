@@ -27,13 +27,16 @@
   <br>
   "end" ve "write memory" -> (ana konsola geçiyoruz ve yaptığımız işlemleri hafızaya kaydediyoruz.)  
   <br>
+  
   -Aynı işlemi bütün pcler ve routerlar için yaptıktan sonra aynı network içinde cihazlar varsa birbirleriyle haberleşebilir.
 Cihazlar farklı networkler içerisindeyse; örneğin Pc1'den çıkan paket routera kadar yolunu takip edebilir ama routerdan sonra
 yönünü bulamaz ve haberleşemezler.Bunun için static route işlemini yapmalıyız.
 <br>
+
 ![r1](https://github.com/ggunayd/Network/assets/99563515/b0314764-1a28-4b0e-9a76-9ed66b558ac1)
 <br>
 ![r5](https://github.com/ggunayd/Network/assets/99563515/349ec5e6-2c08-49a9-9ecb-ca9a090f6787)
+<br>
   -Pc1'in Pc6 ile haberleşmesini sağlayacağız.
   <br>
   -Birbirlerine bağlı routerların haberleşebilmesi için aynı networkde olması ve farklı ip adreslerine sahip olması gerekiyor. Bizim topolojimizdeki gibi iki routerı bağlayan başka bir router varsa bir cihazdan
