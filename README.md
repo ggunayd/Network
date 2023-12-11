@@ -31,8 +31,6 @@
 Cihazlar farklı networkler içerisindeyse; örneğin Pc1'den çıkan paket routera kadar yolunu takip edebilir ama routerdan sonra
 yönünü bulamaz ve haberleşemezler.Bunun için static route işlemini yapmalıyız.
 <br>
-<br>
-
 ![r1](https://github.com/ggunayd/Network/assets/99563515/b0314764-1a28-4b0e-9a76-9ed66b558ac1)
 <br>
 ![r5](https://github.com/ggunayd/Network/assets/99563515/349ec5e6-2c08-49a9-9ecb-ca9a090f6787)
