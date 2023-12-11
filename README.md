@@ -81,7 +81,7 @@ yönünü bulamaz ve haberleşemezler.Bunun için static route işlemini yapmal�
   <br>
   -Şu anda Pc1'den R3'e ulaşabiliyoruz. 
   <br>
-  -Aynı işlemleri R1 ve R3 arasında da uyguluyoruz ve Pc6dan R3'e ulaşacak konuma geliyoruz. Daha sonra Pc1 ve Pc6 cihazlarımızın haberleşebilmesi için R1 ve R5 arasında static route 
+  -Aynı işlemleri R5 ve R3 arasında da uyguluyoruz ve Pc6dan R3'e ulaşacak konuma geliyoruz. Daha sonra Pc1 ve Pc6 cihazlarımızın haberleşebilmesi için R1 ve R5 arasında static route 
   işlemimizi yapıyoruz.
   <br>
   -R1'den R5'e ip route;
