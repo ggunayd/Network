@@ -48,7 +48,7 @@ yönünü bulamaz ve haberleşemezler.Bunun için static route işlemini yapmal�
   
   ![01portu](https://github.com/ggunayd/Network/assets/99563515/ca519610-6209-4bbd-be64-c4a4740295a6)
   <br>
-  -Port bilgilerimize bakıyoruz. R1 için fastEthernet 0/1 portuna ip ataması yapacağız.
+  -Port bilgilerimize bakıyoruz. R1 için fastEthernet 0/0 portuna ip ataması yapacağız.
   <br>
   "interface fastEthernet 0/1"
   <br>
